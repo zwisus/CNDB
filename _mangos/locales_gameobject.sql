@@ -1,3 +1,5 @@
+SET NAMES 'utf8';
+
 INSERT INTO `locales_gameobject` (`entry`,`name_loc4`) VALUES (31,'石狮子');
 INSERT INTO `locales_gameobject` (`entry`,`name_loc4`) VALUES (32,'沉没的箱子');
 INSERT INTO `locales_gameobject` (`entry`,`name_loc4`) VALUES (33,'锁住的箱子');

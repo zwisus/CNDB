@@ -1,3 +1,5 @@
+SET NAMES 'utf8';
+
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (0,0,'任务给予者',NULL);
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (0,1,'我想购买你的货物',NULL);
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (0,2,'我需要一个坐骑',NULL);

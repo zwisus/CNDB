@@ -1,3 +1,6 @@
+SET NAMES 'utf8';
+UPDATE locales_creature SET name_loc4='', subname_loc4=NULL;
+
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3,'食腐者',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (6,'狗头人恶党',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (30,'森林蜘蛛',NULL);

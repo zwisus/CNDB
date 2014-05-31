@@ -1,3 +1,5 @@
+SET NAMES 'utf8';
+
 INSERT INTO `locales_item` (`entry`,`name_loc4`,`description_loc4`) VALUES (25,'破损的短剑',NULL);
 INSERT INTO `locales_item` (`entry`,`name_loc4`,`description_loc4`) VALUES (35,'弯曲法杖',NULL);
 INSERT INTO `locales_item` (`entry`,`name_loc4`,`description_loc4`) VALUES (36,'用旧的钉锤',NULL);
