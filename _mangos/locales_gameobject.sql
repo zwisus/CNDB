@@ -1,4 +1,4 @@
-SET NAMES 'utf8';
+TRUNCATE TABLE `locales_gameobject`;
 
 INSERT INTO `locales_gameobject` (`entry`,`name_loc4`) VALUES (31,'石狮子');
 INSERT INTO `locales_gameobject` (`entry`,`name_loc4`) VALUES (32,'沉没的箱子');

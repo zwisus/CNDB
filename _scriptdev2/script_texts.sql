@@ -1,4 +1,3 @@
-SET NAMES 'utf8';
 UPDATE script_texts SET content_loc4=NULL;
 
 UPDATE `script_texts` SET `content_loc4` =  '谁敢打扰阿鲁高之子？' WHERE `entry` = -1033013;
