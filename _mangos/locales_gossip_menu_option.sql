@@ -158,9 +158,9 @@ INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (2351,3,'急救',NULL);
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (2351,4,'钓鱼',NULL);
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (2351,5,'草药学',NULL);
-INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (2351,6,'铭文',NULL);
-INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (2351,7,'制皮',NULL);
-INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (2351,8,'剥皮',NULL);
+INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (2351,6,'制皮',NULL);
+INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (2351,7,'剥皮',NULL);
+INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (2351,8,'裁缝',NULL);
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (3580,0,'银行',NULL);
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (3580,1,'鲁瑟蓝港',NULL);
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (3580,2,'公会管理员.',NULL);
