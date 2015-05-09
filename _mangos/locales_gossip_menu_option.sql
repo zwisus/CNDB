@@ -550,7 +550,6 @@ INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (2179,0,'我想检查这个塔.',NULL);
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (922,0,'没错！我想要更多的，神奇般的诺格弗格药剂！',NULL);
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (2465,0,'训练我！',NULL);
-INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (2849,11,'任务给予者',NULL);
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (4041,1,'我想快速旅行。',NULL);
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (4042,0,'任务给予者',NULL);
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (4085,0,'任务给予者',NULL);
