@@ -562,3 +562,4 @@ INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box
 
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (2781,0,'训练我',NULL);
 INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (7690,0,'训练我',NULL);
+INSERT INTO `locales_gossip_menu_option` (`menu_id`,`id`,`option_text_loc4`,`box_text_loc4`) VALUES (7691,0,'训练我',NULL);
