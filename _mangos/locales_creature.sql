@@ -9063,18 +9063,18 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (1583
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15838,'冬天爸爸的助手',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15873,'派特的烟火束 (红色)',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15874,'派特的烟火束 (绿色)',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15875,'派特的烟火束 (PURPLE)',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15876,'派特的烟火束 (WHITE)',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15877,'派特的烟火束 (YELLOW)',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15880,'派特的烟火 - 绿色',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15881,'派特的烟火束 - PURPLE',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15884,'派特的烟火 - 白色',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15875,'派特的烟火束 (紫色)',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15876,'派特的烟火束 (白色)',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15877,'派特的烟火束 (黄色)',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15880,'派特的烟火 (绿色)',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15881,'派特的烟火束 (紫色)',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15884,'派特的烟火 (白色)',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15911,'派特的烟火束 (蓝色大型)',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15912,'派特的烟火束 (绿色大型)',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15913,'派特的烟火束 (PURPLE BIG)',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15913,'派特的烟火束 (紫色大型)',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15914,'派特的烟火束 (红色大型)',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15915,'派特的烟火束 (WHITE BIG)',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15916,'派特的烟火束 (YELLOW BIG)',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15915,'派特的烟火束 (白色大型)',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15916,'派特的烟火束 (黄色大型)',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15922,'维希度斯启动器',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15973,'洛曼卡恩大使',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (16086,'花雨',NULL);
@@ -9088,3 +9088,8 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (1769
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (17699,'瘟疫林部落占领任务物体',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (16861,'死亡领主',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14224,'','远程恢复单位');
+
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14756,'红色小神龙',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14755,'绿色小神龙',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15118,'钓鱼大师形态',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (18199,'希利苏斯粉尘撇开任务装饰物部落',NULL);
