@@ -569,7 +569,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (978,
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (979,'库尔森暗影猎手',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (980,'格瑞穆纳尔','锁甲和铠甲商人');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (981,'哈塔什','武器商');
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (982,'索尔塔什','食物和饮料商人');
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (982,'萨尔塔什','食物和饮料商人');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (983,'苏塔佐尔','施法材料和炼金术供应商');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (984,'萨罗斯','布甲和皮甲商人');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (985,'马尔罗什','战士训练师');
@@ -1471,9 +1471,9 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2172
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2173,'暗礁狂鱼',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2174,'近海狂鱼',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2175,'影爪',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2176,'被诅咒的精灵贵族',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2177,'挣扎的精灵贵族',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2178,'哀嚎的精灵贵族',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2176,'被诅咒的上层精灵',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2177,'挣扎的上层精灵',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2178,'哀嚎的上层精灵',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2179,'雷鳞御浪者',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2180,'雷鳞海妖',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2181,'雷鳞侍从',NULL);
@@ -1537,7 +1537,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2253
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2254,'破碎岭虐待者',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2255,'破碎岭法师',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2256,'破碎岭执行者',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2257,'玛格索尔',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2257,'玛格萨尔',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2258,'狂怒的石元素','山脉之主');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2260,'辛迪加盗贼',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2261,'辛迪加卫士',NULL);
@@ -2344,7 +2344,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3226
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3227,'堕落的血爪锐齿龙',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3228,'堕落海浪蟹',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3229,'尖叫者索恩曼图',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3230,'纳兹格雷尔','索尔的谏言者');
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3230,'纳兹格雷尔','萨尔的顾问');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3231,'堕落的巨齿鳄鱼',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3232,'刺背干涉者',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3234,'落单的草原科多兽',NULL);
@@ -2824,9 +2824,9 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3804
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3806,'亡灵间谍',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3807,'亡灵刺客',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3808,'亡灵潜伏者',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3809,'梣谷熊',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3810,'老梣谷熊',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3811,'梣谷巨熊',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3809,'灰谷熊',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3810,'老灰谷熊',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3811,'灰谷巨熊',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3812,'巨钳蟹',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3814,'刺壳蟹',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3815,'闪龙',NULL);
@@ -3660,7 +3660,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (4945
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (4946,'地精拖车',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (4947,'塞拉摩海军上尉',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (4948,'泰索兰副官',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (4949,'索尔','大酋长');
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (4949,'萨尔','大酋长');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (4950,'斑斑',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (4951,'塞拉摩见习卫兵',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (4952,'塞拉摩训练假人 1',NULL);
@@ -4387,8 +4387,8 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (1466
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (6113,'维吉雷克',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (6114,'穆伦·雷矛',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (6115,'游荡的恶魔守卫',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (6116,'精灵贵族的亡魂',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (6117,'精灵贵族鬼巫',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (6116,'上层精灵的亡魂',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (6117,'上层精灵鬼巫',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (6118,'瓦罗森的鬼魂',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (6119,'托格·锈链',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (6120,'拉戈·黑钳',NULL);
@@ -4989,8 +4989,8 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7845
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7489,'银松森林亡灵卫兵',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7505,'血法师德拉吉亚',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7506,'血法师莱诺雷',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7523,'受难的精灵贵族',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7524,'痛苦的精灵贵族',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7523,'受难的上层精灵',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7524,'痛苦的上层精灵',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7527,'哥布林地雷',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7543,'暗龙宝宝',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7544,'红龙宝宝',NULL);
@@ -5118,7 +5118,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7856
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7857,'南海码头工人',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7858,'南海剑客',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7863,'梦境幻象',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7864,'徘徊的精灵贵族',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7864,'徘徊的上层精灵',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7865,'蛮锤哨兵',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7866,'彼得·加林','龙鳞制皮训练师');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7867,'索卡夫·龙眼','龙鳞制皮训练师');
@@ -5183,7 +5183,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7995
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7996,'‘守护者’奇尔加',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7997,'被俘获的小精龙',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7998,'爆破专家艾米·短路',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (8015,'梣谷哨兵',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (8015,'灰谷哨兵',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (8016,'贫瘠之地卫兵',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (8017,'森金村守卫者',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (8018,'戈斯鲁姆','狮鹫兽管理员');
@@ -5575,14 +5575,14 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9019
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9020,'指挥官哥沙克','卡加斯远征军');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9021,'卡兰·巨锤',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9022,'杜格哈尔·雷翼',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9023,'温德索尔元帅',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9023,'温德萨尔元帅',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9024,'控火师罗格雷恩',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9025,'洛考尔领主',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9026,'征服者派隆',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9027,'‘修行者’高罗什',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9028,'格里兹尔',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9029,'剜眼者',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9030,'‘破坏者’奥科索尔',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9030,'‘破坏者’奥科萨尔',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9031,'阿努希尔',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9032,'‘爬行者’赫杜姆',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9033,'安格弗将军',NULL);
@@ -5791,7 +5791,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9678
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9679,'图比亚斯·希切尔',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9680,'火浪杀手',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9681,'贾兹',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9682,'雷吉纳德·温德索尔元帅',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9682,'雷吉纳德·温德萨尔元帅',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9683,'拉克维的配偶',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (9684,'拉克维',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7468,'自然抗性图腾 II',NULL);
@@ -6150,7 +6150,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (1068
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10681,'被召唤的黑手老兵','黑手军团');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10682,'狼骑兵科尔',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10683,'群居孵化者',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10684,'悔恨的精灵贵族',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10684,'悔恨的上层精灵',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10685,'猪',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10696,'避难谷地防卫者',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10697,'绿汁软泥怪',NULL);
@@ -6159,7 +6159,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (1069
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10716,'钟楼蝙蝠',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10717,'时光寄生虫',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10718,'沙拉姆',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10719,'索尔的信使',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10719,'萨尔的信使',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10720,'加拉克刺客',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10721,'新战士',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (10737,'希洛塔姆',NULL);
@@ -6502,7 +6502,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (1146
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11462,'扭木树人',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11464,'扭木纠缠者',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11465,'扭木践踏者',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11466,'精灵贵族召唤者',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11466,'上层精灵召唤者',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11467,'苏斯',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11469,'艾德雷斯怨魂',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11470,'艾德雷斯巫士',NULL);
@@ -6510,8 +6510,8 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (1147
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11472,'艾德雷斯鬼巫',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11473,'艾德雷斯幽灵',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11475,'艾德雷斯魅灵',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11476,'精灵贵族骷髅',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11477,'腐烂的精灵贵族',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11476,'上层精灵骷髅',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11477,'腐烂的上层精灵',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11480,'秘法畸兽',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11483,'法力残渣',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (11484,'畸形残渣',NULL);
@@ -7020,7 +7020,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (1257
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12577,'加罗迪努斯','角鹰兽管理员');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12578,'米萨琳娜','角鹰兽管理员');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12579,'血怒撕裂者',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12580,'雷吉纳德·温德索尔',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12580,'雷吉纳德·温德萨尔',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12581,'摩库提奥',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12596,'比比尔法兹','狮鹫兽管理员');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12616,'乌尔格拉','双足飞龙管理员');
@@ -7078,7 +7078,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (1281
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12818,'卢尔·雪蹄',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12836,'游荡的守护古树',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12837,'雅玛·雪蹄',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12856,'梣谷先驱者',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12856,'灰谷先驱者',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12858,'托雷克',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12859,'碎木劫掠者',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (12860,'杜瑞尔·月火',NULL);
@@ -7561,7 +7561,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (1447
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14474,'苏尔拉',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14475,'雷克斯·亚希尔',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14476,'克里拉克',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14477,'格鲁布索尔',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14477,'格鲁布萨尔',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14478,'哈瑞坎尼安',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14479,'暮光领主艾沃兰','暮光之锤');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14480,'阿罗希奥斯·瑟维克','好心人');
@@ -7658,7 +7658,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (1462
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14627,'汉瑟尔·重拳','瑟银兄弟会');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14628,'艾沃奈斯','瑟银兄弟会');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14634,'侦察队长洛洛尔','瑟银兄弟会');
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14637,'索尔宾·范达瑟','锻造供应商');
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14637,'萨尔宾·范达瑟','锻造供应商');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14638,'被缩小的波涛巨人',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14639,'被缩小的深海巨人',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14640,'被缩小的峭壁巨人',NULL);
@@ -8043,11 +8043,11 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (1554
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15544,'维姆',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15555,'扎拉幼虫',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15589,'克苏恩之眼',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15612,'克鲁格·碎颅','奥格玛军团队长');
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15612,'克鲁格·碎颅','奥格瑞玛军团队长');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15613,'梅洛克·远途',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15615,'暗影祭司沙艾',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15616,'奥格玛军团步兵',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15617,'奥格玛军团掷斧者',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15616,'奥格瑞玛军团步兵',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15617,'奥格瑞玛军团掷斧者',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15620,'雷戈虫巢猎人杀手',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15622,'维克尼斯钻孔虫',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15630,'范克里斯的爪牙',NULL);
@@ -8368,7 +8368,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (510,
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15766,'军官马娄尔夫','暴风城表扬处');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15525,'塞拉图斯','硬甲皮收集者');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (16438,'骷髅装甲兵',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15765,'军官布莱德·红刺','奥格玛表扬处');
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15765,'军官布莱德·红刺','奥格瑞玛表扬处');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3907,'治疗之泉图腾 III',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3906,'治疗之泉图腾 II',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15764,'军官彼尔德·铁须','铁炉堡表扬处');
@@ -8639,7 +8639,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (1573
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15733,'诺姆瑞根表扬官',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15734,'铁炉堡表扬官',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15735,'暴风城表扬官',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15736,'奥格玛表扬官',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15736,'奥格瑞玛表扬官',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15737,'暗矛表扬官',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15738,'幽暗城表扬官',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15745,'冬天爷爷的助手',NULL);
@@ -8742,7 +8742,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (1590
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15905,'达纳苏斯狂欢者',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15906,'铁炉堡狂欢者',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15907,'幽暗城狂欢者',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15908,'奥格玛狂欢者',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15908,'奥格瑞玛狂欢者',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15909,'法莉尔·星歌','先祖硬币收集者');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15933,'毒云',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15776,'圣诞版酋长雷德·黑手',NULL);
@@ -8911,7 +8911,7 @@ INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (2454
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (7999,'泰兰妲·语风','伊露恩的高阶女祭司');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (15934,'扎拉黄蜂',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (1370,'布兰登',NULL);
-INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3296,'奥格玛蛮兵',NULL);
+INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (3296,'奥格瑞玛蛮兵',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (8717,'恶魔守卫精英',NULL);
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (4968,'珍娜·普劳德摩尔女士','塞拉摩之主');
 INSERT INTO `locales_creature` (`entry`,`name_loc4`,`subname_loc4`) VALUES (14753,'银翼补给员艾蒂尔·月火','银翼军需官');
