@@ -9,3 +9,6 @@ UPDATE `locales_item` SET `name_loc4`='致盲粉' WHERE `entry`=5530;
 
 -- Enchanting Rods
 UPDATE `locales_item` SET `description_loc4`=NULL WHERE `entry` IN (6339,11130,11145,16207);
+
+-- Finkle's Skinner
+UPDATE `locales_item` SET `description_loc4`='大冒险家芬克的财产' WHERE `entry`=12709;
