@@ -6,3 +6,6 @@ UPDATE `locales_item` SET `name_loc4`='火焰石' WHERE `entry`=13699;
 UPDATE `locales_item` SET `name_loc4`='强效火焰石' WHERE `entry`=13700;
 UPDATE `locales_item` SET `name_loc4`='极效火焰石' WHERE `entry`=13701;
 UPDATE `locales_item` SET `name_loc4`='致盲粉' WHERE `entry`=5530;
+
+-- Enchanting Rods
+UPDATE `locales_item` SET `description_loc4`=NULL WHERE `entry` IN (6339,11130,11145,16207);
